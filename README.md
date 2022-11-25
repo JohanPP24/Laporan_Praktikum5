@@ -1,6 +1,6 @@
 
 - Nama   : Johan Putra Pradana 
-- NIM    : 312110450
+- NIM    : 312110314
 - Kelas  : TI.21.C.1
 - Tugas  : Orientasi Object Programming
 
